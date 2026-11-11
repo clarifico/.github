@@ -19,21 +19,21 @@ We build collections databases, multi-institution data networks and computer-vis
 <table>
   <tr>
     <td colspan="2">
-      <a href="https://explore.bishopmuseum.org"><img src="https://raw.githubusercontent.com/clarifico/.github/main/profile/images/explore.jpg" alt="Bishop Museum Collections Explorer"></a>
-      <br><strong><a href="https://explore.bishopmuseum.org">Bishop Museum Collections Explorer</a></strong><br>
-      The Museum's public collections database: 1.1 million specimen records harvested back from GBIF and iDigBio, with faceted search, a live specimen map, expedition routes rebuilt from specimen labels, and self-service admin for every department.
+      <a href="https://seedsofhawaii.org"><img src="https://raw.githubusercontent.com/clarifico/.github/main/profile/images/seeds-of-hawaii.jpg" alt="Seeds of Hawaiʻi"></a>
+      <br><strong><a href="https://seedsofhawaii.org">Seeds of Hawaiʻi</a></strong><br>
+      The seed database for Hawaiʻi's native flora, built for Lyon Arboretum at the University of Hawaiʻi at Mānoa: 844 species with measured seed traits, a synonym crosswalk across GBIF and regional checklists, federal and state conservation status, and plain-language search. Its framework is the foundation for a proposed national wild seed image database.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://seedsofhawaii.org"><img src="https://raw.githubusercontent.com/clarifico/.github/main/profile/images/seeds-of-hawaii.jpg" alt="Seeds of Hawaiʻi"></a>
-      <br><strong><a href="https://seedsofhawaii.org">Seeds of Hawaiʻi</a></strong><br>
-      Seed database for 844 Hawaiian species — measured traits, synonym crosswalk, conservation status and plain-language search. Lyon Arboretum, University of Hawaiʻi at Mānoa.
-    </td>
-    <td width="50%" valign="top">
       <a href="https://vision.seedsofhawaii.org"><img src="https://raw.githubusercontent.com/clarifico/.github/main/profile/images/vision.jpg" alt="VISION"></a>
       <br><strong><a href="https://vision.seedsofhawaii.org">VISION</a></strong><br>
       Computer vision across 28,000+ herbarium specimens from 100+ herbaria: sheet parsing, label reading, phenology, and a seed key that says "unresolved" rather than guessing.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://longevity.seedsofhawaii.org"><img src="https://raw.githubusercontent.com/clarifico/.github/main/profile/images/seed-longevity-lab.jpg" alt="Seed Longevity Lab"></a>
+      <br><strong><a href="https://longevity.seedsofhawaii.org">Seed Longevity Lab</a></strong><br>
+      A workbench for seed-longevity models: fit germination data against every published viability model at once, with goodness-of-fit to pick the winner.
     </td>
   </tr>
   <tr>
